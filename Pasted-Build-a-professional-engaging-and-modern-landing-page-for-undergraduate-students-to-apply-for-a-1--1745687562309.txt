@@ -1,0 +1,24 @@
+Build a professional, engaging, and modern landing page for undergraduate students to apply for a 1-month internship program at top tech companies. The page should be built using React and TailwindCSS, and must include:
+
+Hero Section (Top Banner):
+Big catchy headline: "Kickstart Your Tech Career: 1-Month Internships at Top Companies!" Subheadline: "Exclusively for Undergraduates | Limited Seats | Internship Certificate Guaranteed" Two Call-to-Action (CTA) buttons: "Apply Now" (primary) and "Learn More" (secondary) Background should be bright, youthful, but still professional (maybe gradient blue/purple shades). 2. About the Program Section:
+
+2-3 sentences explaining: Short but powerful 1-month internships Real-world project work Direct industry exposure 3. Why Choose Us Section:
+
+Stylish cards with small icons explaining benefits: "Certificate of Completion from Top Tech Firms" "Real-time Industry Projects" "Mentorship from Industry Experts" "Networking with Tech Leaders" 4. Logos of Partner Companies:
+
+Display logos like Google, Amazon, Microsoft, Netflix, Infosys, TCS etc. Make logos appear inside an accordion UI element. Accordion title: "See All Our Hiring Partners" On clicking, expand to show all logos nicely. 5. How It Works Section:
+
+Use a nice timeline/stepper design: Step 1: Register Online Step 2: Shortlisting Step 3: Internship Offer Step 4: 1-Month Hands-On Experience 6. Testimonials Section:
+
+Carousel/slider format. Include 3 sample student testimonials: "Best career decision! Got real industry exposure." – Anjali S., IIT Delhi "Loved the mentorship! Thank you for the opportunity." – Rohan M., NIT Trichy "Learned more in 1 month than in a semester!" – Priya K., VIT Vellore 7. Pricing Section:
+
+Bold heading: "All This For Just ₹599!" Include a modern Payment Button (like Razorpay, Stripe or dummy button) Emphasize No hidden charges, Secure Payment, Immediate Slot Confirmation.
+
+8.Footer:
+
+About Us | Privacy Policy | Terms & Conditions | Contact Social Media links (LinkedIn, Instagram) Additional Requirements:
+
+Fully Responsive (Mobile, Tablet, Desktop) Use beautiful animations (Framer Motion) for section entrances Sticky Navbar with page links ("About", "Partners", "Pricing", "Apply") Smooth scrolling when clicking navbar links Use professional but lively colors (like Tailwind's indigo, violet, blue shades) Minimalistic but super eye-catching design Follow modern UI/UX best practices. Technologies to Use:
+
+React TailwindCSS Framer Motion (for animations) Heroicons for icons Formik + Yup (optional for form validation) Razorpay/Stripe integration mockup for the payment button
